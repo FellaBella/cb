@@ -1,0 +1,311 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #7f4f24;
+  opacity: 1;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  position: sticky;
+}
+
+ul li a {
+  display: block;
+  height: 30px;
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+  position: sticky;
+  display: flex;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: 	#553311;
+  border-radius:30%;
+  text-decoration: none;
+}
+
+p, h3 {color:white;
+	text-align: center;}
+
+.body0 {
+	background-image: url('https://media1.tenor.com/m/mT1a_Q-KHzQAAAAd/crumbl-cookies-honey-bun-cookie.gif');
+	background-repeat: norepeat;
+	background-size:cover;
+	background-color: 	#aa7733;
+	}
+	
+.body2 {
+	background-image: url('https://i.pinimg.com/1200x/ce/2c/e6/ce2ce62e38facb222381c5d1590bb7d2.jpg');
+	background-repeat: norepeat;
+	background-size:cover;
+	background-color: 	#aa7733;
+	}	
+.body5 {
+	background-image: url('https://i.pinimg.com/736x/01/80/b9/0180b9849053882974d17fff6328604d.jpg');
+	background-repeat: norepeat;
+	background-size:cover;
+	background-color: 	#aa7733;
+	}
+	
+.body6 {
+	background-image: url('https://i.pinimg.com/1200x/3d/11/af/3d11af9ab1259485e322a0bfa6b07491.jpg');
+	background-repeat: norepeat;
+	background-size:cover;
+	background-color: 	#aa7733;
+	}
+	
+img.logonavi {
+	float: right;
+	margin-right:5%;
+	display: flex;
+	position: relative; 
+	height: 100;}
+	
+img.logohome {
+	float: center;
+	justify-content: center;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	position: relative; 
+	height: 400;}
+	
+table {
+	align: center;}
+
+.navigation {
+	  width: 100%;
+			}
+			
+.overlay {
+background-color:rgba(0,0,0,0.5);
+top:0;
+		left:0;
+		width:100%;
+		height:100%;}
+		
+		.overlay2 {
+		background-color:rgba(0,0,0,0.4);
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+		display: grid}
+			
+.welcomebox {
+	height: 420px; 
+	width: 1300px;
+	background-image: url('https://media1.tenor.com/m/VXK2tjK7Uh0AAAAC/pixel-art.gif');
+	background-repeat: norepeat;
+	background-size: cover;
+	background-color:rgba(0,0,0,0.3);
+	box-shadow: 3px 3px 10px black; 
+	border-radius: 15px; 
+	margin-left: auto;
+	margin-right: auto;
+	align-items:center;
+	justify-content:center;
+	
+}.welcomebox2 {
+	height: 420px; 
+	width: 1300px;
+	background-image: url('https://i.pinimg.com/1200x/d7/c3/23/d7c32367e468801b8dea5c0eac58fa75.jpg');
+	background-repeat: norepeat;
+	background-size: cover;
+	background-color:rgba(0,0,0,0.3);
+	box-shadow: 3px 3px 10px black; 
+	border-radius: 15px; 
+	margin-left: auto;
+	margin-right: auto;
+	align-items:center;
+	justify-content:center;
+}
+
+.welcomebox3 {
+	height: 480px; 
+	width: 1300px;
+	background-repeat: norepeat;
+	background-size: cover;
+	background-color:rgba(255,255,255,0.3);
+	box-shadow: 3px 3px 10px black; 
+	border-radius: 15px; 
+	margin-left: auto;
+	margin-right: auto;	
+	margin-top: auto;
+	margin-bottom: auto;
+	align-items:center;
+	justify-content:center;
+}
+
+.welcomebox4 {
+	height: 500px; 
+	width: 650px;
+	background-repeat: norepeat;
+	background-size: cover;
+	background-color:rgba(255,255,255,0.3);
+	box-shadow: 3px 3px 10px black; 
+	border-radius: 15px; 
+	margin-left: auto;
+	margin-right: auto;	
+	margin-top: auto;
+	margin-bottom: auto;
+	align-items:center;
+	justify-content:center;
+}
+.logobox {
+	height: 400; 
+	width: 450;
+	background-color:rgba(181, 101, 29, 0.9);
+	box-shadow: 3px 3px 10px black; 
+	border-radius: 30px; 
+	margin-left: auto; 
+	margin-right: auto;
+	align-items:center;
+	justify-content:center;
+}
+.limbox {
+	height: 90; 
+	width: 700;
+	background-color:rgba(255, 255, 255, 0.9);
+	box-shadow: 3px 3px 10px black; 
+	border-radius: 30px; 
+	margin-left: auto; 
+	margin-right: auto;
+	margin-top: auto; 
+	margin-bottom: auto;
+	align-items:center;
+	justify-content:center;
+}
+
+	h1 {text-align: center; 
+	font-family: 'Lucida Console'; 
+	color:white;
+	letter-spacing: 4px;
+	font-size: 300%}
+	
+	h1.desc {text-align: center; 
+	font-family: Sans-serif; 
+	color:white;
+	letter-spacing: 2px;
+	font-size: 150%}
+	
+	h1.desc2 {text-align: center; 
+	font-family: 'Georgia'; 
+	color:white;
+	margin: 20px;
+	letter-spacing: 2px;
+	line-height: 40px;
+	font-size: 160%}
+	
+	
+	h2 {text-align: center; 
+	font-family: 'Comic Sans MS'; 
+	color:white;}
+	
+	h1.white {text-shadow: 0 0 3px white;}
+	h1.brown {text-shadow: 0 0 7px #583101;
+				color: #3a2618;}
+	h1.red {text-shadow: 0 0 7px maroon;
+				color: red;
+				font-family: 	Copperplate}
+				
+iframe.iframe {
+	border-collapse: collapse;
+	border: 0;
+}
+
+ul li a img .hover {
+  transition: transform 10.0s ease, box-shadow 0.7s ease;
+}
+
+
+
+
+
+
+a:hover {
+  color: #a47148;         
+  text-decoration: underline;
+}
+
+a:active {
+  color: #3e2723;          
+}
+
+
+.hover:hover {
+  transform: scale(1.1);
+  box-shadow:
+    0 0 15px rgba(181, 101, 29, 1),
+    0 0 30px rgba(181, 101, 29, 1);
+}
+
+.body1 
+{background-image: url('https://i.pinimg.com/1200x/6f/e2/a0/6fe2a0aca15db6d6794d3d7886718863.jpg');
+	background-repeat: norepeat;
+	background-size: cover;
+ }
+ 
+ .body3
+{background-image: url('https://i.pinimg.com/736x/58/22/3f/58223fc846da3f47b7b9cc957b92ae30.jpg');
+	height: 600px;
+	background-repeat: norepeat;
+	background-size: cover;
+ }
+  .body4
+{background-image: url('https://i.pinimg.com/736x/06/34/bb/0634bb62fcbda915ca09bd8aee8aa784.jpg');
+	height: 600px;
+	background-repeat: norepeat;
+	background-size: cover;
+ }  
+ 
+.body7
+{background-image: url('https://i.pinimg.com/736x/7d/35/60/7d3560084827ca31f89bbc5ffcaf0e34.jpg');
+	height: 600px;
+	background-repeat: norepeat;
+	background-size: cover;
+ }
+ 
+ 
+ .footer {
+ background-color:#7f4f24;
+ height: 200px;}
+ 
+  .divider {
+ background-image: url('https://i.pinimg.com/1200x/1a/21/7b/1a217b5f59c10527af4eb83eb4b3680a.jpg');
+ height: 120px;}  
+ 
+ .divider2 {
+ background-image: url('https://i.pinimg.com/1200x/30/f0/76/30f0765881cfc3c4058366de7044429f.jpg');
+ height: 150px;
+ background-size: cover;
+ background-repeat: norepeat}
+ 
+ .vidbox {
+	height: 400px; 
+	width: 700px;
+	background-color:white;
+	box-shadow: 3px 3px 10px black; 
+	border-radius: 15px; 
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	justify-content:center;
+	background-color:#ddb892;
+	display: flex;}
+	
+iframe {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	justify-content: center;
+}
+
+iframe2 {
+border: 0
+}
